@@ -6,10 +6,10 @@ namespace _CYD_ASIENTOS_CONTABLES_2019
 {
     class Conexion_Mysql
     {
-        string Ip_Servidor = "192.117.168.118";
-        string Usr_Servidor = "root";
-        string Pwd_Servidor = "peralillo2010";
-        string BD_Servidor = "grande";
+        string Ip_Servidor = "";
+        string Usr_Servidor = "";
+        string Pwd_Servidor = "";
+        string BD_Servidor = "";
 
         public Conexion_Mysql()
         {
